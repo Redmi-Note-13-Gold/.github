@@ -9,7 +9,9 @@ Unofficial device adaptation and development notes for LineageOS 23.2.
 - [功能与验收状态](https://github.com/Redmi-Note-13-Gold/lineageos-gold/blob/main/docs/STATUS.md)
 - [源码恢复与应用顺序](https://github.com/Redmi-Note-13-Gold/lineageos-gold/blob/main/docs/RESTORE.md)
 - [发布前检查](https://github.com/Redmi-Note-13-Gold/lineageos-gold/blob/main/docs/VALIDATION.md)
-- [MDDP 实验研究](https://github.com/Redmi-Note-13-Gold/lineageos-gold/tree/main/experiments/mddp)
+- [MDDP 实验研究](https://github.com/Redmi-Note-13-Gold/lineageos-gold/tree/experimental/experiments/mddp)
+
+`main` 使用国行官方 OS3.0.10.0.VNQCNXM 底包；旧方案和候选模块放在 `experimental` 分支。
 
 当前发布的是开发资料，尚非完整可复现的 ROM/OTA；已部署功能与未刷入实验分别记录。保留上游作者和许可证，不分发账号资料、用户日志或私钥。
 
